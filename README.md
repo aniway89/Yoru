@@ -1,3 +1,6 @@
+# Bro look at the note I have attached  in the bottom bro I clearly mention that I didn't use the AI
+I use this website to make the readme file bro 
+https://readme.so/editor
 # Yoru
 
 > A small personal portfolio website.
